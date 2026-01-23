@@ -3,6 +3,9 @@ module_2_venv/
 *.env
 *.pyenv
 
+# Версия проекта до замечаний
+prev_versions
+
 # Файлы для кеширования
 __pycache__/
 *.py[cod]
